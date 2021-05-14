@@ -1,2 +1,2 @@
-# iORI-ENST
-iORI-ENST: Identifying origin of replication sites based on elastic net and stacking learning
+# iORI-LAST
+iORI-LAVT: A novel method for identifying origin of replication sites via LASSO feature selection and soft voting classifier
