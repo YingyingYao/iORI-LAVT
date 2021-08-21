@@ -229,4 +229,4 @@ if fill_NA=="1":
     data=pd.read_csv(path+outputname,header=None,index_col=False)
     print(data.values.shape)
 elif fill_NA=="0":
-convert_without('S1.txt','D:/DNA起始位点第二篇/S1/RFHCP.csv')
+convert_without('S1.txt','D:/DNA起始位点/S1/RFHCP.csv')
